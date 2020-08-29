@@ -1,2 +1,2 @@
 # loan-calculation
-This is a loan calculator project created in my JavaScript course from Brad Traversy.
+This is a loan calculator project created in my JavaScript course by Brad Traversy. This project includes HTML, Bootstrap CDN, and JavaScript.
